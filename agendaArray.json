@@ -1,0 +1,133 @@
+{
+    "c2array": true,
+    "size": [
+        3,
+        13,
+        1
+    ],
+    "data": [
+        [
+            [
+                "Agenda Title"
+            ],
+            [
+                "Agenda Description"
+            ],
+            [
+                "Var1 Name"
+            ],
+            [
+                "Var1 animFrame"
+            ],
+            [
+                "Var1 startValue"
+            ],
+            [
+                "Var1 Goal"
+            ],
+            [
+                "Var1 Goal direction"
+            ],
+            [
+                "Var2 Name"
+            ],
+            [
+                "Var2 animFrame"
+            ],
+            [
+                "Var2 startValue"
+            ],
+            [
+                "Var2 Goal"
+            ],
+            [
+                "Var2 Goal direction"
+            ],
+            [
+                "numBillAttempts"
+            ]
+        ],
+        [
+            [
+                "Environmental change"
+            ],
+            [
+                "In this scenario your goal is to shift the government opinion towards environmental issues. Specifically, your goal is to bring the value of the government environmental index 1 to 56 or higher."
+            ],
+            [
+                "Policy Progress"
+            ],
+            [
+                0
+            ],
+            [
+                50
+            ],
+            [
+                80
+            ],
+            [
+                "≥"
+            ],
+            [
+                "Environmental Index 2"
+            ],
+            [
+                1
+            ],
+            [
+                10
+            ],
+            [
+                0
+            ],
+            [
+                ""
+            ],
+            [
+                8
+            ]
+        ],
+        [
+            [
+                "Decline of democracy"
+            ],
+            [
+                "In this scenario your goal is to shift the government ways towards a less democratic rule. Specifically, your goal is: to bring the value of the government Democracy Index 1 to  50 or lower."
+            ],
+            [
+                "Policy Progress"
+            ],
+            [
+                0
+            ],
+            [
+                50
+            ],
+            [
+                80
+            ],
+            [
+                "≥"
+            ],
+            [
+                "Democracy Index 2"
+            ],
+            [
+                3
+            ],
+            [
+                25
+            ],
+            [
+                -1
+            ],
+            [
+                ""
+            ],
+            [
+                12
+            ]
+        ]
+    ]
+}

@@ -1,0 +1,126 @@
+{
+    "c2array": true,
+    "size": [
+        4,
+        9,
+        1
+    ],
+    "data": [
+        [
+            [
+                1
+            ],
+            [
+                "How challenging did you find this block?"
+            ],
+            [
+                "1: Not challenging at all"
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                "7: Extremely challenging"
+            ]
+        ],
+        [
+            [
+                1
+            ],
+            [
+                "How would you rate your knowledge about politics?"
+            ],
+            [
+                "1: I don’t know anything"
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                "7: I’m an expert"
+            ]
+        ],
+        [
+            [
+                2
+            ],
+            [
+                "How challenging did you find this block?"
+            ],
+            [
+                "1: Not challenging at all"
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                "7: Extremely challenging"
+            ]
+        ],
+        [
+            [
+                2
+            ],
+            [
+                "How would you rate your knowledge about politics?"
+            ],
+            [
+                "1: I don’t know anything"
+            ],
+            [
+                2
+            ],
+            [
+                3
+            ],
+            [
+                4
+            ],
+            [
+                5
+            ],
+            [
+                6
+            ],
+            [
+                "7: I’m an expert"
+            ]
+        ]
+    ]
+}
